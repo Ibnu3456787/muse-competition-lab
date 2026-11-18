@@ -14,7 +14,8 @@ looking intelligent — optimize for producing measurable results.**
 instructions/          Operating doctrines — read before every build/submit
 ├── master-skill.md        MUSE Master Skill, Bounty Competition Edition (7 roles)
 ├── competition-analysis.md  Competition intelligence + strategic selection
-└── qa-protocol.md         Adversarial QA + benchmarking + iterative optimization
+├── qa-protocol.md         Adversarial QA + benchmarking + iterative optimization
+└── competitive-bounty-system.md  MUSE Competitive Bounty System, Advanced Edition (10 sections)
 competitions/
 ├── makefun/           make.fun entries: postmortems per competition
 └── web3/              Web3 bug bounty research (Metric, Hyperliquid)
