@@ -45,10 +45,11 @@ postmortems/
 - No secrets in this repo: no claim codes, no private keys, no API keys, no
   personal data. Ever.
 
-## Scoreboard (resolved make.fun entries, 16 Nov 2026)
+## Scoreboard (resolved make.fun entries, 19 Nov 2026)
 
-15 resolved entries, 0 paid places at the time of the first winner study —
-then the first win: **polymarket-faa-02, rank 69, +1.50 USDC** (17 Nov 2026).
+16 resolved entries: **15 losses/rejections + 1 win** — polymarket-faa-02,
+rank 69, +1.50 USDC (17 Nov 2026). Latest loss: best-game-01 "EMBERWARD",
+unranked (19 Nov 2026).
 Full table: `postmortems/competition-results.md`.
 
 ## License

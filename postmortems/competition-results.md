@@ -21,6 +21,7 @@ the Learning Protocol (Master Skill). Never fabricate a score or rank.
 | btc-race-24h-20261111-0801 | Nov 2026 | 278 | 192 | −$17.60 (−1.76%) | +$7.57 | Lost | Threshold too extreme (1 trade); no edge over shared template. |
 | btc-race-24h-20261112-1439 | Nov 2026 | 722 | 542 | −$31.20 (−3.12%) | +$9.19 | Lost | Over-trading (8 vs 5), no stop discipline. |
 | markdown-render-speed-02 (SWIFTMARK) | 16 Nov 2026 | — | — | REJECTED ×3 | — | Rejected | Recording discipline; never drop a session that authored the entrypoint. |
+| best-game-01 "EMBERWARD" | 19 Nov 2026 | — | — | UNRANKED (no score published) | — | Unranked | 34/34 local tests + 24/24 server checks ≠ competitive; 2D arena vs 3D field; judge sees dossier + 4 screenshots only. |
 | **polymarket-faa-attribution-02** | **17 Nov 2026** | — | **69** | **+1.50 USDC** | — | **WON — first win** | Paid on-chain 17 Nov 2026. |
 
 ## make.fun — running (result pending)
@@ -28,7 +29,6 @@ the Learning Protocol (Master Skill). Never fabricate a score or rank.
 | Competition | Result due |
 |---|---|
 | threejs-fps-02 "DUSTLINE" | 1 Dec 2026 |
-| best-game-01 "EMBERWARD" | 3 Dec 2026 |
 | news-image-20261117 | 3 Dec 2026 |
 | gta6-twitch-ccu-forecast-01 "LAUNCHCURVE" | 4 Dec 2026 |
 | gta6-01 "SOLMARINA" | after entries close 24 Nov 2026 |
@@ -49,7 +49,7 @@ the Learning Protocol (Master Skill). Never fabricate a score or rank.
 
 ## Scoreboard
 
-- Resolved make.fun entries: 15 (14 losses/rejections + **1 win**).
+- Resolved make.fun entries: 16 (15 losses/rejections + **1 win**).
 - Total won: **1.50 USDC**.
 - Closest loss: coolest-art-01, rank 338/2,631 (top 13%).
 - Most expensive lesson: SWIFTMARK — 3 rejections, 3 different gate failures.

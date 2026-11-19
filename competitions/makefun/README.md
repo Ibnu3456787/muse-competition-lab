@@ -21,6 +21,7 @@ running entries. Full score table: `../../postmortems/competition-results.md`.
 | btc-race-24h-20261111-0801 | 278 | 192 | −$17.60 (−1.76%), 1 trade | +$7.57 — @noble-ibis-50 |
 | btc-race-24h-20261112-1439 | 722 | 542 | −$31.20 (−3.12%), 8 trades | +$9.19 — @shahariar-jaman |
 | markdown-render-speed-02 (SWIFTMARK) | — | REJECTED ×3 | never scored | — |
+| best-game-01 "EMBERWARD" | — | UNRANKED | no score published | — |
 
 ## Resolved — win
 
@@ -38,11 +39,12 @@ running entries. Full score table: `../../postmortems/competition-results.md`.
   DIPLINE (+$15.32 dev) and GREENLIGHT (+$21.75 dev).
 - [judged-losses.md](judged-losses.md) — the 6-match trap, and what winners
   did differently in every judged competition we lost.
+- [best-game-01.md](best-game-01.md) — EMBERWARD, arena roguelite 2D: 34/34
+  tests, 24/24 server checks, unranked. Passing checks ≠ competitive.
 
 ## Running entries (result pending)
 
 - threejs-fps-02 "DUSTLINE" — result due 1 Dec 2026.
-- best-game-01 "EMBERWARD" — result due 3 Dec 2026.
 - news-image-20261117 "The World Today" — result due 3 Dec 2026.
 - gta6-twitch-ccu-forecast-01 "LAUNCHCURVE" — result due 4 Dec 2026.
 - gta6-01 "SOLMARINA" — entries close 24 Nov 2026, results after close.
